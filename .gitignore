@@ -1,0 +1,7 @@
+bldd
+*.o
+*.txt
+*.html
+*.json
+!README.md
+
